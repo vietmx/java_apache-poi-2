@@ -1,0 +1,5 @@
+com\maixuanviet\poi\word\WordDocument.class
+com\maixuanviet\poi\powerpoint\PowerPointHelper.class
+com\maixuanviet\poi\excel\newcolumn\ExcelColumn.class
+com\maixuanviet\poi\excel\newcolumn\numeric\ExcelNumericFormat.class
+com\maixuanviet\poi\excel\write\addimageincell\ExcelCellImageHelper.class
